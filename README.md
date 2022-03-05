@@ -6,4 +6,3 @@ Simple quiz project which have:
 * final score (15/20)
 * question can be changed by trivia API (JSON file )
 * created using OOP method
-* 
